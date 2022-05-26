@@ -8,5 +8,9 @@ namespace EmployeeWages
 {
     internal class EmployeeWageUC14
     {
+        public static void EmpwageUC14()
+        {
+
+        }
     }
 }

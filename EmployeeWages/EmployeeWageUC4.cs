@@ -10,7 +10,7 @@ namespace EmployeeWages
     {
         public const int IS_PART_TIME = 1;
         public const int IS_FULL_TIME = 2;
-        public static void EmployeeWageswitchcase()
+        public static void EmployeeWage()
         {
             int EMP_RATE_PER_HOUR = 20;
             int emphrs = 0;
