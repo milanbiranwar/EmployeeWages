@@ -21,5 +21,7 @@ namespace EmployeeWages
                 Console.WriteLine("Employee is absent");
             }
         }
+
+
     }
 }
